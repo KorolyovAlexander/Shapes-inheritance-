@@ -1,0 +1,27 @@
+html {
+  height: 100%; }
+
+body {
+  height: 100%;
+  margin: 0; }
+
+#desktop {
+  height: 80%; }
+
+#menu {
+  height: 19%;
+  border: 2px solid black;
+  background: lightgray; }
+  #menu p {
+    margin-left: 15%; }
+  #menu button {
+    width: 10%;
+    height: 25%; }
+  #menu #btnAddCircle {
+    margin-left: 20%; }
+
+.shape {
+  position: absolute;
+  border: 2px solid black; }
+
+/*# sourceMappingURL=style.css.map */
